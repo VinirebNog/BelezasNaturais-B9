@@ -1,0 +1,104 @@
+.belezanatural{
+    padding-left: 685px;
+
+}
+h1{
+    text-align: center;
+    padding-top: 25px;
+}
+.rounded{
+    height: 100px;
+    padding-top: 10px;
+
+}
+
+.cont {
+    padding-left: 30px;
+    display: flex;
+}
+
+.texto { 
+    margin-left: 20px;  
+    padding-left: 8px;
+    float: inline-end; margin-right: 30%;
+}
+.ig {
+    border: solid; border-radius: 2%;
+}
+.cont2 {
+    
+    padding-right: 30px;
+    display: flex;
+}
+
+.texto2 {  
+    margin-right: 20px; 
+    padding-left: 8px;
+    float: inline-end; margin-left: 30%;
+   
+
+}
+
+.imagem {
+    float: inline-end; margin-right: 30px;
+    border: solid; border-radius: 5%;
+
+}
+
+
+h4 {
+    border: solid; border-radius: 2%;  
+}
+
+.margem {
+    margin-right: 20px;
+}
+
+.titulo{
+    text-align: center;
+}
+.navbar{
+    text-align: center;
+}
+
+button {
+   border-radius: 10%;
+   background-color: rgb(223, 193, 120);
+   
+}
+li {border: 1px solid;
+   margin: 2px;
+}
+
+a {
+    color: black;
+}
+
+.pag2 {
+float: inline-start;
+}
+
+h2 {
+    text-align: center;
+}
+
+.b2{
+margin-top: 100px;
+width: 90px;
+height: 50px;
+float: inline-end; margin-right: 100px;
+    border: solid; border-radius: 5%;
+
+}
+.b3 {
+    margin-top: 100px;
+    width: 90px;
+    height: 50px;
+    float: inline-start; margin-left: 100px;
+        border: solid; border-radius: 5%;
+
+}
+
+h6 {
+    float: inline-end; 
+}
